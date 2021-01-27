@@ -63,5 +63,5 @@ function mousePressed() {
 
 function introPage() {
   // creA('https://richapatidar.github.io/kifo_1/', 'this is a link');
-  //location.href = 'https://richapatidar.github.io/kifo_1/';
+  location.href = 'https://richapatidar.github.io/ki-FO_yourFoodQuadrats_introduction/';
 }
